@@ -1,0 +1,6 @@
+Config = {
+    namescript = "thohihi",--Tên Script
+    logoscript = "105330738632478",--ID Logo Script
+    tacgia = "Lê Đức Thọ"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Zis/refs/heads/main/ZisRobloxV3"))()
